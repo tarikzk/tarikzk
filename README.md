@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 ```yaml
 Name:           Tarik Zaanani Karzazi
-Role:           Junior Full-Stack Developer / IT Technician
+Role:           Full-Stack Developer / IT Technician
 Education:      Higher Technician in Web Application Development (FP DAW)
 Experience:     Full-Stack Internship @ Lynxview (Laravel + React)
 Background:     6+ years in international industrial environments
